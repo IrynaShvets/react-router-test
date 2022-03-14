@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/react-router-test/static/css/main.073c9b0a.css",
-    "main.js": "/react-router-test/static/js/main.5713864e.js",
-    "static/js/787.a49e5415.chunk.js": "/react-router-test/static/js/787.a49e5415.chunk.js",
-    "static/media/logo.svg": "/react-router-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-router-test/static/css/main.2d32aafb.css",
+    "main.js": "/react-router-test/static/js/main.a027eb9c.js",
+    "HomePage.js": "/react-router-test/static/js/HomePage.5f63f4fb.chunk.js",
+    "MoviesPage.js": "/react-router-test/static/js/MoviesPage.771c77ee.chunk.js",
+    "MovieDetailsPage.js": "/react-router-test/static/js/MovieDetailsPage.52421af9.chunk.js",
+    "Cast.js": "/react-router-test/static/js/Cast.1216ad24.chunk.js",
+    "Reviews.js": "/react-router-test/static/js/Reviews.ccee3bfe.chunk.js",
+    "static/js/774.aad3b07d.chunk.js": "/react-router-test/static/js/774.aad3b07d.chunk.js",
+    "static/js/355.2c02c82a.chunk.js": "/react-router-test/static/js/355.2c02c82a.chunk.js",
+    "static/js/360.f952c9fc.chunk.js": "/react-router-test/static/js/360.f952c9fc.chunk.js",
     "index.html": "/react-router-test/index.html",
-    "main.073c9b0a.css.map": "/react-router-test/static/css/main.073c9b0a.css.map",
-    "main.5713864e.js.map": "/react-router-test/static/js/main.5713864e.js.map",
-    "787.a49e5415.chunk.js.map": "/react-router-test/static/js/787.a49e5415.chunk.js.map"
+    "main.2d32aafb.css.map": "/react-router-test/static/css/main.2d32aafb.css.map",
+    "main.a027eb9c.js.map": "/react-router-test/static/js/main.a027eb9c.js.map",
+    "HomePage.5f63f4fb.chunk.js.map": "/react-router-test/static/js/HomePage.5f63f4fb.chunk.js.map",
+    "MoviesPage.771c77ee.chunk.js.map": "/react-router-test/static/js/MoviesPage.771c77ee.chunk.js.map",
+    "MovieDetailsPage.52421af9.chunk.js.map": "/react-router-test/static/js/MovieDetailsPage.52421af9.chunk.js.map",
+    "Cast.1216ad24.chunk.js.map": "/react-router-test/static/js/Cast.1216ad24.chunk.js.map",
+    "Reviews.ccee3bfe.chunk.js.map": "/react-router-test/static/js/Reviews.ccee3bfe.chunk.js.map",
+    "774.aad3b07d.chunk.js.map": "/react-router-test/static/js/774.aad3b07d.chunk.js.map",
+    "355.2c02c82a.chunk.js.map": "/react-router-test/static/js/355.2c02c82a.chunk.js.map",
+    "360.f952c9fc.chunk.js.map": "/react-router-test/static/js/360.f952c9fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5713864e.js"
+    "static/css/main.2d32aafb.css",
+    "static/js/main.a027eb9c.js"
   ]
 }
